@@ -38,22 +38,32 @@ I'm passionate about Cloud Computing, DevOps, and Automation. Currently, I'm bui
 * Bash Scripting
 * YAML
 
-### 📚 Learning Roadmap
+📚 Learning Roadmap
 
 I'm currently following this roadmap:
 
-* [x] Linux Administration
-* [x] Networking Fundamentals
-* [x] AWS Cloud Practitioner
-* [x] Bash Scripting
-* [x] YAML
-* [ ] Docker
-* [ ] Python
-* [ ] Ansible
-* [ ] Kubernetes
-* [ ] Terraform
-* [ ] Prometheus
-* [ ] Grafana
+- [x] Linux Administration
+- [x] Networking Fundamentals
+- [x] AWS Cloud Practitioner
+- [x] Bash Scripting
+- [x] YAML
+- [ ] Docker
+- [ ] Python
+- [ ] Ansible
+- [ ] Terraform
+- [ ] Kubernetes
+- [ ] Jenkins
+- [ ] GitHub Actions
+- [ ] GitLab CI/CD
+- [ ] Prometheus
+- [ ] Grafana
+
+🛠️ Tools & Technologies
+
+Linux | AWS | Docker | Bash | Git | GitHub | YAML
+Python | Ansible | Terraform | Kubernetes
+Jenkins | GitHub Actions | GitLab CI/CD
+Prometheus | Grafana
 
 ### 🎯 Goals
 
