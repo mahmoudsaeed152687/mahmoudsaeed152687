@@ -47,7 +47,7 @@ I'm currently following this roadmap:
 - [x] AWS Cloud Practitioner
 - [x] Bash Scripting
 - [x] YAML
-- [ ] Docker
+- [x] Docker
 - [ ] Python
 - [ ] Ansible
 - [ ] Terraform
