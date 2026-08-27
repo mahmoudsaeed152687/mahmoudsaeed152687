@@ -50,11 +50,9 @@ I'm currently following this roadmap:
 - [x] Docker
 - [ ] Python
 - [ ] Ansible
-- [×] Terraform
-- [×] Kubernetes
-- [ ] Jenkins
-- [ ] GitHub Actions
-- [ ] GitLab CI/CD
+- [x] Terraform
+- [x] Kubernetes
+- [x] GitLab CI/CD
 - [ ] Prometheus
 - [ ] Grafana
 
