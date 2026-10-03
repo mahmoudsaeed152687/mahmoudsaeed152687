@@ -49,7 +49,7 @@ I'm currently following this roadmap:
 - [x] YAML
 - [x] Docker
 - [ ] Python
-- [ ] Ansible
+- [x] Ansible
 - [x] Terraform
 - [x] Kubernetes
 - [x] GitLab CI/CD
